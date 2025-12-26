@@ -1,0 +1,1 @@
+[![NodeJS with Webpack](https://github.com/dimych1601/netology_javascript_tests_task2/actions/workflows/webpack.yml/badge.svg)](https://github.com/dimych1601/netology_javascript_tests_task2/actions/workflows/webpack.yml)
